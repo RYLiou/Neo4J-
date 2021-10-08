@@ -1,0 +1,8 @@
+customer_id,rel_customer_id,rel_type_code
+A,B,family
+A,C,family
+A,D,family
+B,D,family
+A,E,family
+B,C,family
+C,A,family
