@@ -1,0 +1,8 @@
+customer_id,rel_customer_id,rel_type_code
+A,B,家人
+A,C,家人
+A,D,家人
+B,D,家人
+A,E,家人
+B,C,家人
+C,A,家人
